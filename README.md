@@ -26,9 +26,9 @@
 
 AXABRA CFD is an experimental local computational wind tunnel and scientific visualization project. This first public snapshot is a clean showcase while the application source, asset provenance and release packaging are being prepared for publication.
 
-[![AXABRA CFD demonstration](demo/preview.jpg)](demo/axabraCFD.mp4)
+[![AXABRA CFD demonstration](demo/preview.jpg)](https://raw.githubusercontent.com/Axabra/axabra-cfd/main/demo/axabraCFD.mp4)
 
-**[Watch the 63-second MP4 demonstration](demo/axabraCFD.mp4)**
+**[Watch the 63-second MP4 demonstration](https://raw.githubusercontent.com/Axabra/axabra-cfd/main/demo/axabraCFD.mp4)**
 
 The visual vehicle model shown in the demonstration is credited in [MODEL_ATTRIBUTION.md](MODEL_ATTRIBUTION.md). The model file itself is not distributed in this repository.
 
