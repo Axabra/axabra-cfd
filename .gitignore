@@ -1,0 +1,59 @@
+# Dependencies and bundled runtimes
+node_modules/
+tools/
+runtimes/
+runtime/
+
+# Local project data and generated CFD state
+cfd-jobs/
+projet/
+artifacts/
+historique/
+user-models/
+models/
+.axabra-*
+package-reference.json
+
+# Generated application and native build outputs
+app/offline.bundle.js
+app/offline-build.json
+cfd-native/bin/
+cfd-native/lib/
+cfd-native/downloads/
+cfd-native/build/
+**/Make/linux*/
+*.o
+*.obj
+*.so
+*.dll
+*.exe
+
+# Archives, logs and temporary files
+*.zip
+*.7z
+*.tar
+*.tar.gz
+*.log
+*.tmp
+*.temp
+*.bak
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
